@@ -1,6 +1,6 @@
 ### Muito Prazer 👋, eu sou o Lincoln
 
-- 🔭 Estou a procura de estágio
+- 🔭 Estou em busca de estágio
 - 🌱 Atualmente estudo ADS na FIAP
 
  <div>
