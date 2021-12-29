@@ -2,8 +2,8 @@
 
 <div>
   <a href = "https://github.com/Lincoln-Oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lincoln-Oliveira&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Oliveira&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lincoln-Oliveira&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Oliveira&theme=dracula"/>
 </div>
  
   ##
